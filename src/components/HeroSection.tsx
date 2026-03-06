@@ -17,7 +17,7 @@ export function HeroSection() {
                     playsInline /* Indispensável para o vídeo rodar sozinho no Mobile (iOS/Android) */
                     className="w-full h-full object-cover opacity-75"
                 >
-                    <source src="/lights.mp4" type="video/mp4" />
+                    <source src="https://srsj1mumwmo8dpcm.public.blob.vercel-storage.com/lights.mp4" type="video/mp4" />
                 </video>
 
                 {/* Overlays inteligentes para garantir leitura perfeita (Acessibilidade) */}
