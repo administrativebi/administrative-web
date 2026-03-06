@@ -1,0 +1,80 @@
+{
+    "Header": {
+        "method": "Método",
+        "pillars": "Pilares & Produtos",
+        "portfolio": "Portfólio",
+        "cta": "Fale Conosco"
+    },
+    "Hero": {
+        "badge": "Escritório de Performance",
+        "title1": "Somos a engrenagem que",
+        "title2": "acelera os seus resultados",
+        "subtitle": "Transformamos gestão e tecnologia em performance real para bares e restaurantes.",
+        "cta1": "Melhorar Meus Resultados",
+        "cta2": "Conhecer o Método"
+    },
+    "ValueProp": {
+        "title1": "Queremos ser o seu",
+        "title2": "Escritório de Performance",
+        "subtitle": "Nosso objetivo estratégico é plugar nossa inteligência ao seu negócio para melhorar margens, padronizar rotinas e escalar sua empresa com segurança.",
+        "b1_title": "Foco em Resultado",
+        "b1_desc": "Métricas claras, acompanhamento direto e decisões baseadas em dados consistentes.",
+        "b2_title": "Visão de Dono",
+        "b2_desc": "Trabalhamos lado a lado com a operação para garantir que o planejamento vire execução."
+    },
+    "Method": {
+        "badge": "Nosso Método de Trabalho",
+        "title1": "O Estado de",
+        "title2": "Eficiência Contínua",
+        "p1": "A Administrative atua como o motor de inteligência do seu restaurante. Nossa missão é extinguir modelos tradicionais onde as soluções morrem numa gaveta e se perdem na rotina esmagadora do dia a dia.",
+        "p2": "Trabalhamos com níveis de eficiência. Nosso propósito essencial é mapear e perseguir a excelência através de diagnósticos ágeis, planos de ação robustos e controle operacional restrito.",
+        "p3": "Sprints curtas, entregáveis tangíveis e uma cultura que recompensa quem executa bem.",
+        "obj1_title": "Diagnóstico Preciso",
+        "obj1_desc": "Análise da maturidade operacional atual.",
+        "obj2_title": "Plano de Voo",
+        "obj2_desc": "Ações direcionadas via metodologia 5W2H.",
+        "obj3_title": "Execução Guiada",
+        "obj3_desc": "Treinamento e checklists na ponta da operação.",
+        "obj4_title": "Revisão de Biometria",
+        "obj4_desc": "Monitoramento de KPIs e dashboards diários."
+    },
+    "Pillars": {
+        "badge": "Produtos & Pilares",
+        "title1": "Pessoas, Processos",
+        "title2": "e Tecnologia",
+        "subtitle": "Um ecossistema tecnológico prático focado na tríade essencial de qualquer operação de sucesso.",
+        "f1_title": "Pessoas: Engajamento",
+        "f1_desc": "Treinamento contínuo, sistema de gamificação e recompensas para reter talentos e elevar o padrão do salão e da cozinha.",
+        "f2_title": "Processos: Conformidade",
+        "f2_desc": "Padronização sistêmica, auditorias visuais e planos de ação automatizados para que o erro não se repita.",
+        "f3_title": "Tecnologia: Roadmap Pro",
+        "f3_desc": "Nossa plataforma PaaS proprietária que unifica checkouts, inteligência artificial e visão estratégica na palma da mão.",
+        "f4_title": "BPO Especializado",
+        "f4_desc": "Terceirização inteligente de rotinas críticas administrativas focadas em maximizar tempo e rentabilidade.",
+        "f5_title": "Consultoria Imersiva",
+        "f5_desc": "Intervenções operacionais baseadas no chão de fábrica para resolver gargalos crônicos do seu dia a dia.",
+        "f6_title": "Dashboards de Performance",
+        "f6_desc": "Business Intelligence adaptado para a velocidade do food service, sem relatórios chatos. A informação exata no momento exato."
+    },
+    "Portfolio": {
+        "badge": "Portfólio & Parcerias",
+        "title1": "Quem já confia",
+        "title2": "em nossa performance",
+        "subtitle": "Operações locais e grandes redes que já elevaram seus padrões.",
+        "client1": "Redes Múltiplas",
+        "client2": "Bistrôs Autênticos",
+        "client3": "Dark Kitchens",
+        "client4": "Fast Casual"
+    },
+    "CTA": {
+        "title": "Pronto para elevar o nível da sua operação?",
+        "subtitle": "Deixe de apagar incêndios e passe a gerenciar performance. Nossos especialistas estão a postos.",
+        "button": "Agendar Diagnóstico Gratuito"
+    },
+    "Footer": {
+        "rights": "Administrative BI. Escritório de Performance.",
+        "terms": "Termos de Uso",
+        "privacy": "Privacidade",
+        "contact": "Fale Conosco"
+    }
+}

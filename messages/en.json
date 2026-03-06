@@ -1,0 +1,80 @@
+{
+    "Header": {
+        "method": "Method",
+        "pillars": "Pillars & Products",
+        "portfolio": "Portfolio",
+        "cta": "Contact Us"
+    },
+    "Hero": {
+        "badge": "Performance Office",
+        "title1": "We are the engine that",
+        "title2": "accelerates your results",
+        "subtitle": "We transform management and technology into real performance for bars and restaurants.",
+        "cta1": "Improve My Results",
+        "cta2": "Know the Method"
+    },
+    "ValueProp": {
+        "title1": "We want to be your",
+        "title2": "Performance Office",
+        "subtitle": "Our strategic goal is to plug our intelligence into your business to improve margins, standardize routines, and scale your company safely.",
+        "b1_title": "Results Focused",
+        "b1_desc": "Clear metrics, direct tracking, and consistent data-driven decisions.",
+        "b2_title": "Owner's Vision",
+        "b2_desc": "We work side by side with the operation to ensure planning turns into execution."
+    },
+    "Method": {
+        "badge": "Our Working Method",
+        "title1": "The State of",
+        "title2": "Continuous Efficiency",
+        "p1": "Administrative acts as your restaurant's intelligence engine. Our mission is to extinguish traditional models where solutions die in a drawer and get lost in the overwhelming daily routine.",
+        "p2": "We work with efficiency levels. Our essential purpose is to map and pursue excellence through agile diagnostics, robust action plans, and strict operational control.",
+        "p3": "Short sprints, tangible deliverables, and a culture that rewards those who execute well.",
+        "obj1_title": "Precise Diagnosis",
+        "obj1_desc": "Analysis of current operational maturity.",
+        "obj2_title": "Flight Plan",
+        "obj2_desc": "Targeted actions via 5W2H methodology.",
+        "obj3_title": "Guided Execution",
+        "obj3_desc": "Training and checklists on the front line of the operation.",
+        "obj4_title": "Biometrics Review",
+        "obj4_desc": "Monitoring of KPIs and daily dashboards."
+    },
+    "Pillars": {
+        "badge": "Products & Pillars",
+        "title1": "People, Processes",
+        "title2": "and Technology",
+        "subtitle": "A practical technological ecosystem focused on the essential triad of any successful operation.",
+        "f1_title": "People: Engagement",
+        "f1_desc": "Continuous training, gamification system, and rewards to retain talent and raise the standard of the floor and kitchen.",
+        "f2_title": "Processes: Compliance",
+        "f2_desc": "Systemic standardization, visual audits, and automated action plans so errors are not repeated.",
+        "f3_title": "Technology: Roadmap Pro",
+        "f3_desc": "Our proprietary PaaS platform that unifies checkouts, artificial intelligence, and strategic vision in the palm of your hand.",
+        "f4_title": "Specialized BPO",
+        "f4_desc": "Intelligent outsourcing of critical administrative routines focused on maximizing time and profitability.",
+        "f5_title": "Immersive Consulting",
+        "f5_desc": "Operational interventions based on the shop floor to solve chronic bottlenecks in your daily life.",
+        "f6_title": "Performance Dashboards",
+        "f6_desc": "Business Intelligence adapted for the speed of food service, without boring reports. The exact information at the exact moment."
+    },
+    "Portfolio": {
+        "badge": "Portfolio & Partnerships",
+        "title1": "Who already trusts",
+        "title2": "in our performance",
+        "subtitle": "Local operations and large chains that have already raised their standards.",
+        "client1": "Multiple Chains",
+        "client2": "Authentic Bistros",
+        "client3": "Dark Kitchens",
+        "client4": "Fast Casual"
+    },
+    "CTA": {
+        "title": "Ready to raise the level of your operation?",
+        "subtitle": "Stop putting out fires and start managing performance. Our experts are standing by.",
+        "button": "Schedule Free Diagnosis"
+    },
+    "Footer": {
+        "rights": "Administrative BI. Performance Office.",
+        "terms": "Terms of Use",
+        "privacy": "Privacy Policy",
+        "contact": "Contact Us"
+    }
+}
